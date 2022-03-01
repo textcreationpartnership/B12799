@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the right honorable the lords, commissioners for the office of Earl Marshall of England</title>
+            <author>England and Wales. Earl Marshal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12799</idno>
+            <idno type="OCLC"> 122904053</idno>
+            <idno type="STC">STC 8581</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[257]</idno>
+            <idno type="EEBO-CITATION">122904053</idno>
+            <idno type="OCLC">ocn 122904053</idno>
+            <idno type="VID">201837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12799)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201837)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[256])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the right honorable the lords, commissioners for the office of Earl Marshall of England</title>
+                  <author>England and Wales. Earl Marshal.</author>
+               </titleStmt>
+               <extent>2 leaves : coats of arms.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by the British Library.</note>
+                  <note>Line 1 of text ends "of".</note>
+                  <note>"Giuen vnder our hands and seales, the tenth day of Nouember, in the sixteenth yeere of his Maiesties Reigne of England, France, and Ireland, and of Scotland the fiftie two, At White-Hall. Anno Domini 1618."</note>
+                  <note>Requiring that marriages, issue, coats of arms of all nobility be certified into the Office of Arms, at time of death, with fees for each rank.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hatchments --  Law and legislation.</term>
+               <term>Escutcheons (Heraldry) --  Law and legislation.</term>
+               <term>Nobility --  Heraldry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201837:1"/>
+            <head>By the right Honorable the Lords, Commiſsioners for the Office of Earle Marshall of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings moſt Excellent <hi>Maieſtie</hi> being informed of many great abuſes, offered to the Nobilitie and Gentrie of this Kingdome, aſwell by the ſiniſter practice of certayne mechanicall Tradeſ-men, as Painters, Glaſiers, Stone-cutters, Caruers, and many other Artificers, trading in Armoury, who preſuming, without authoritie, to intermeddle with the marſhalling of Armes, the erecting of Monuments, whereon Armes are to be fixed, Coats quartered, due differences to be obſerued, being myſteries of Honour and out of their element, by reaſon whereof many great errors are daily committed, to the great offence and preiudice of our ancient Nobilitie and Gentrie of this Kingdome, and to the breeding of many ambiguous doubts and queſtions, which may happen in their Diſcents and Iſſues in future times, as alſo by a generall neglect of the Nobilitie and Gentrie themſelues, in the omiſſion of Funerals, and other ceremoniall Rites here<g ref="char:EOLhyphen"/>tofore vſed, which are now almoſt or altogether laid aſide. For remedie of which abuſes and neglects, his <hi>Maieſtie</hi> out of his Gracious and Royall diſpoſition, ſo much tendering the preſeruation of the good eſtate of his ſaid Nobilitie and Gentrie of this Kingdome, eſteeming them the principall Pillars of this Land, who in all former Ages haue beene thought fit to be diſtinguiſhed from the vulgar and meaner ſort and ranke of people, and thereby haue beene reſpected and renowmed thorowout all Chriſtendome: Hath commanded vs his Commiſ<g ref="char:EOLhyphen"/>ſioners for the Office of the Earle Marſhall of ENGLAND, to looke into the aforeſaid abuſes and neglects: whereupon, we the ſaid Lords, Commiſſioners, (<hi>viz.</hi> ED<g ref="char:EOLhyphen"/>WARD, Earle of <hi>Worceſter,</hi> Lord Keeper of his <hi>Maieſties</hi> Priuie Seale; LODOVICK, Duke of <hi>Lenox,</hi> Lord Steward of his <hi>Maieſties</hi> Houſhold; GEORGE, Marques of <hi>Buckingham,</hi> Maſter of his <hi>Maieſties</hi> Horſe; CHARLES, Earle of <hi>Nottingham,</hi> Lord high Admirall of England; WILLIAM, Earle of <hi>Pembroke,</hi> Lord Chamberlaine of his <hi>Maieſties</hi> Houſhold; and THOMAS, Earle of <hi>Arundell</hi>) hauing taken due and conſiderate deliberation of the Premiſſes, and finding that by reaſon of the daily abuſes and neglects aforeſaid, that not only his <hi>Maieſties</hi> Office, but alſo his Officers of Armes, the Kings Heraulds and Purſuiuants, being Officers of Honour, whoſe chiefeſt ſupport and maintenance hath euer depended vpon the performance of the ſaid Funerall Rites and Obſequies of the Nobilitie and Gentrie of this Land, taking at all ſuch times Certificates of the Matches, Iſſues, and times of Deceaſe of the Eſtates aforeſaid, with their Armes, which of right they ought to beare, without wrong doing to a<g ref="char:EOLhyphen"/>ny, and from whom his <hi>Maieſtie</hi> henceforward will expect a more ſtrict account then of late time hath beene had. By Vertue therefore of his <hi>Maieſties</hi> Commiſſion to vs directed vnder the great Seale of England, bearing date the ſeuenth day of Februarie, in the fifteenth yeere of his <hi>Maieſties</hi> Reigne of <hi>England, France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the one and fiftieth, Doe order, decree, and ordayne, that aſwell for the good of the ſaid Nobilitie and Gentrie of this Kingdome, as otherwiſe, That from henceforth all Noble men, Baronets, Knights, Eſquires, and Gentlemen of eminent Place, Office, Birth, and Qualitie, that ſhall be either ſilently buried in the Night time by Torch-light, or otherwiſe, by Day or Night time without the attendance of an Officer of Armes, ſhall neuertheleſſe immediately after the death and buriall of euery ſuch Defunct, returne a true Certificate of the Matches, Iſſues, and times of Deceaſe, with their Armes, which of right they bore, for the which they ſhall pay into the ſaid Office of Armes, ſuch Fees as we haue and doe hereby ſet downe and appoint, <hi>viz. Euery</hi> GENTLEMAN, <hi>vſing Funerall Scutchions at his buriall, three pounds ſixe ſhillings and eight pence, and vſing none, fortie ſhillings. Euery</hi> ESQVIRE <hi>of Coat Armour, ſixe pounds thirteene ſhillings and foure pence. Euery</hi> KNIGHT, <hi>ten pounds. Euery</hi> BARONET <hi>and</hi> BANNERET, <hi>thirteene pounds, ſixe ſhillings and eight pence. Euery</hi> BARON <hi>and</hi> BARONESSE, <hi>that ought to haue a great Banner and Bannerols, fiue and twentie pounds. Euery</hi> BI<g ref="char:EOLhyphen"/>SHOP, <hi>fiue and twentie pounds. Euery</hi> VICOVNT <hi>and</hi> VICOVNTESSE, <hi>thirtie pounds. Euery</hi> EARLE <hi>and</hi> COVNTESSE, <hi>fiue and thirtie pounds. Euery</hi> MARQVES <hi>and</hi> MARCHIONESSE, <hi>fortie pounds. Euery</hi> DVKE <hi>and</hi> DVCHESSE, <hi>fiue and fortie pounds: and, Euery</hi> ARCH-BISHOP, <hi>fiue and fortie pounds.</hi> All which ſaid ſeuerall ſummes of Money, are to be paid to the ſaid Officers of Armes, or their Aſſignes, being orderly demanded after the buriall of euery ſuch Defunct, by the Heires, Executors, or Adminiſtrators, of all and euery Perſons of the degrees aforeſaid. The which Certificates and Fees, if they ſhall refuſe to returne and pay, We ſhall, vpon complaint made by the Officers of Armes, to vs, or to the Earle Marſhall of England for the time being, take ſuch further order therein, as ſhall be thought meet and expedient for the accompliſhment of his <hi>Maie<g ref="char:EOLhyphen"/>ſties</hi> commandement. And further, We the Lords, Commiſſioners aforeſaid, doe ſtraightly charge and command all the ſaid Officers of Armes, which now are or here<g ref="char:EOLhyphen"/>after ſhall be, to take a true Certificate of the Matches, Iſſues, and times of Deceaſe of all the Eſtates aforeſaid, with the Armes, which of right they ought to beare, without wrong doing to any (they paying ſuch Fees as are before ſet downe by theſe Preſents) and likewiſe, the like Certificates of all Gentlemen, whoſe eſtates exceede not on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thouſand Marks, to enter them as exactly as the reſt, paying no Fees at all, which Certificates ſhall be truely and carefully Regiſtred, and ſafely kept in a faire Booke in the Office of Armes, as an authentique Record, which in future time may determine and end many queſtions that hereafter may ariſe, as by many examples of late times haue beene ſeene. Prouided alwayes, that if any of the inferiour degrees aboueſaid, <hi>viz.</hi> Knights, Eſquires, or Gentlemen, ſhall pretend pouertie or diſabilitie, and ſhall make the ſame appeare by Petition vnto the Earle Marſhall of England, or the Lords, Commiſſioners for the ſaid Office for the time being, ſuch order ſhall be taken therein, as that the Gentlemen ſhall be releeued, and the Office of Armes ſatisfied. Neuertheleſſe, if any of the degrees aforeſaid ſhall require to haue their Funerals honourably ſo<g ref="char:EOLhyphen"/>lemnized with Heraulds attendance, and ſuch other ceremonies as haue in former times beene vſed, that then they ſhall pay all ſuch Fees as heretofore haue beene accuſto<g ref="char:EOLhyphen"/>med. And for remedie of the former groſſe abuſes, which are daily committed by Painters, that keepe open ſhops of Armourie, and doe deuiſe and giue forth Armes at their pleaſures, aſſuming the names of Heraulds Painters for their more countenance therein: Wee doe order and will, and in his <hi>Maieſties</hi> name ſtraightly charge them, and euery of them, aſwell within the Citie of <hi>London,</hi> as in all other Cities and Countries within this Realme, that from henceforth they preſume not to paint any Armes vpon Coaches, or elſewhere, or Funerall worke, or to make or paint any Diſcents or Pedegrees, or giue any trick of Coats of Armes out of their Books and Shops for any of the Eſtates aforeſaid, without the allowance and approbation of the Kings of Armes, to whom it doth chiefly appertayne. And for remedie of ſuch abuſes as are com<g ref="char:EOLhyphen"/>mitted by Maſons, which commonly make Tombs and Monuments, and doe ingraue diuers Armes and Matches, and ſet forth in their Inſcriptions falſe Genealogies with vaine and friuolous Titles, ſetting vp Coronets vpon ſome vnfitting and impertinent to the qualities of the perſon whom they demonſtrate: Wee charge them alſo and e<g ref="char:EOLhyphen"/>uery of them, by the immediate authoritie which we hold from his <hi>Maieſtie,</hi> and doe thereby order, that they ſhall not from henceforth ingraue, or cauſe to bee ingrauen, painted or ſet forth any Armes, Genealogies, Epitaphs, or Inſcriptions, or make any Monument, without it be firſt ſeene and allowed by the Kings and Officers of Armes whom it doth concerne, the Copie whereof with the forme of the Monument, to be drawne and entered into a Booke, which Booke ſhall be called, <hi>The Booke of Monu<g ref="char:EOLhyphen"/>ments,</hi> and be kept in the Office of Armes for euer, to the end if euer afterward any thing ſhould happen to be added or diminiſhed, or the Monument tranſlated or defa<g ref="char:EOLhyphen"/>ced, as many are and haue beene, yet the truth may appeare by the ſaid Regiſter Booke. And whereas we are further aduertiſed, that diuers Glaſiers, Gold-ſmiths, Cutters, Grauers, and Caruers, and other Artific<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, doe vſually paint in Glaſſe, graue in Metall, and cut Seales of Armes, carue in Timber, and ſuch like diuers Armes, Coates, and Croſts, without any warrant or knowledge of the ſame to be true and iuſtifiable, to the great wrong and preiudice of many Noble and ancient Families of this Kingdome. Wee doe hereby order likewiſe, and in his <hi>Maiesties</hi> name ſtraightly charge and command them and euery of them, and all other Artificers whatſoeuer, to forbeare to paint in Glaſſe, cut Seales, or otherwiſe graue in Metall, or carue in Timber or otherwiſe, any matter of Armourie, before the draft thereof be firſt ſeene and allowed by the Kings and Officers of Armes, whom it ſhall concerne, vnleſſe it be of the Nobilitie whoſe Coats and Quarterings are eminent and well knowne, or ſuch of the ancient Gentrie as haue beene formerly viewed, approued, and allowed by the Prouinciall Kings of Armes, in their ſeuerall Viſitations, within their Prouinces.</p>
+            <closer>
+               <dateline>Giuen vnder our Hands and Seales, <date>the tenth day of <hi>Nouember,</hi> in the ſixteenth yeere of his <hi>Maieſties</hi> Reigne of <hi>England, France,</hi> and <hi>Ireland,</hi> and of <hi>Scotland</hi> the fiftie two, At WHITE-HALL. <hi>Anno Domini</hi> 1618.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>E. Worceſter. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                     <item>Lenox. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                     <item>G. Buckingham. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                     <item>Nottingham. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                     <item>Pembroke. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                     <item>T. Arundell. <figure>
+                           <figDesc>seal</figDesc>
+                           <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                        </figure>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
